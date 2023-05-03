@@ -1,65 +1,80 @@
 {
-    "title": "Hola, soy Carlos Dugarte",
-    "path_prefix": "/",
-    "color_scheme": "dark",
-    "accent_color": "green",
-    "header": {
-        "title": "carlosdugarte.com",
-        "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Home",
-                "url": "/",
-                "style": "link"
-            },
-            {
-                "label": "Portfolio",
-                "url": "/portfolio/",
-                "style": "link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about/",
-                "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
-            }
-        ]
-    },
-    "footer": {
-        "content": "&copy; Este sitio web está hecho con 💖 por Carlos Dugarte desde Argentina. Si necesitas comunicarte conmigo envíame un mensaje de <a href=\"https://www.carlosdugarte.com/contact\" target=\"_blank\" rel=\"noopener\">contacto.</a>",
-        "has_social": true,
-        "social_links": [
-            {
-                "label": "Github",
-                "url": "https://github.com/cardugarte/",
-                "style": "icon",
-                "icon": "github",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/viajeroextraterrestre/",
-                "style": "icon",
-                "icon": "instagram",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/in/cardugarte",
-                "style": "icon",
-                "icon": "linkedin",
-                "new_window": true
-            }
-        ]
-    },
-    "favicon": "/images/avatar-blog.png"
+	"title": "Hola, soy Carlos Dugarte",
+	"path_prefix": "/",
+	"color_scheme": "dark",
+	"accent_color": "blue",
+	"header": {
+		"title": "nomadasdigitales.xyz",
+		"has_nav": true,
+		"nav_links": [
+			{
+				"label": "Home",
+				"url": "/",
+				"style": "link"
+			},
+			{
+				"label": "Portfolio",
+				"url": "/portfolio/",
+				"style": "link"
+			},
+			{
+				"label": "Blog",
+				"url": "/blog/",
+				"style": "link"
+			},
+			{
+				"label": "About",
+				"url": "/about/",
+				"style": "link"
+			},
+			{
+				"label": "Contact",
+				"url": "/contact/",
+				"style": "link"
+			}
+		]
+	},
+	"footer": {
+		"content": "&copy; Este sitio web está hecho con 💖 por Carlos Dugarte desde Argentina. Si necesitas comunicarte conmigo envíame un mensaje de <a href=\"https://www.carlosdugarte.com/contact\" target=\"_blank\" rel=\"noopener\">contacto.</a>",
+		"has_social": true,
+		"social_links": [
+			{
+				"label": "Github",
+				"url": "https://github.com/cardugarte/",
+				"style": "icon",
+				"icon": "github",
+				"new_window": true
+			},
+			{
+				"label": "Instagram",
+				"url": "https://www.instagram.com/viajeroextraterrestre/",
+				"style": "icon",
+				"icon": "instagram",
+				"new_window": true
+			},
+			{
+				"label": "LinkedIn",
+				"url": "https://www.linkedin.com/in/cardugarte",
+				"style": "icon",
+				"icon": "linkedin",
+				"new_window": true
+			}
+			,
+			{
+				"label": "Facebook",
+				"url": "https://www.linkedin.com/in/cardugarte",
+				"style": "icon",
+				"icon": "facebook",
+				"new_window": true
+			},
+			{
+				"label": "Twitter",
+				"url": "https://www.linkedin.com/in/cardugarte",
+				"style": "icon",
+				"icon": "twitter",
+				"new_window": true
+			}
+		]
+	},
+	"favicon": "/images/avatar-blog.png"
 }
