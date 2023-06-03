@@ -1,10 +1,10 @@
 {
-	"title": "Hola, soy Carlos Dugarte",
+	"title": "Pagina de ejemplo",
 	"path_prefix": "/",
 	"color_scheme": "light",
 	"accent_color": "blue",
 	"header": {
-		"title": "nomadasdigitales.xyz",
+		"title": "blog-live-extraterrestre",
 		"has_nav": true,
 		"nav_links": [
 			{
